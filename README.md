@@ -1,6 +1,6 @@
 # uPSD_Programmer
 program for   <a href="http://www.upsd8051.com/cn/products/proxxzn.asp" rel="nofollow">ST uPSD Microcontroller</a>  it allows programming, reading, verification of microcontrollers using   <a href="https://developer.arm.com/documentation/101455/0100/Hardware-Description/Target-Connectors?lang=en" rel="nofollow">ulink2</a>. The program is created using reverse engineering of original libraries from Keil.
-To flash the program, one file with the extension *.obj is enough. Tested in Windows 10 x64 and with the UPSD3233BV microcontroller.
+To flash the program, one file with the extension *.obj is enough. Tested in Windows 10 x64, Windows 11 x64, Windows 7 x64 and with the UPSD3233BV microcontroller.
 # Some information about the microcontroller family
 "ST uPSD microcontroller" refers to a family of 8-bit microcontrollers from STMicroelectronics that incorporate a Flash Programmable System Device (PSD) architecture and an 8032 core. These devices are known for their in-system programmability (ISP) via a JTAG interface. 
 Key Features and Characteristics:
